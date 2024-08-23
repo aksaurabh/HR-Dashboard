@@ -8,3 +8,12 @@ Sales also has a significant number of employees, particularly in executive and 
 
 Human Resources is the smallest department.
 
+https://github.com/aksaurabh/HR-Dashboard/commit/6e0e56abdf606ca61c2437e6fc5b371077822c5c#commitcomment-145761128
+
+The company has a total of 1470 employees, out of which 1233 are active. This leaves 237 inactive employees
+
+The hiring trend chart shows a steady increase in total employees over the past few years, with more new hires than attrition. This implies the company is in a growth phase.
+
+The Active Employees by Department chart shows that Technology department has the highest number of employees, followed by Sales and then Human Resources.
+
+It seems the company is in a growth phase with a focus on expanding its sales and technological capabilities.
