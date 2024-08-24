@@ -43,6 +43,18 @@ Attrition is highest in the Sales department and is also high amongst new hires,
 
 Attrition is low among HR, analysts, and managers.
 
+
+
+Recommendations:
+
+Investigate reasons for higher attrition in sales and recruiting departments.
+
+Develop strategies to reduce attrition rate during peak periods.
+
+Review policies and work-life balance programs to address attrition related to overtime work.
+
+Implement programs to improve employee retention, especially during the early years of their tenure.
+
 Attrition appears to be cyclical and increases every two years with a significant spike in 2016 and 2020. Attrition is higher among those who travel frequently, and lower among those who do not travel.
 
 There is higher attrition among those who work overtime, and the longest tenured employees show the lowest attrition rates.
